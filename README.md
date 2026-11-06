@@ -64,28 +64,7 @@ RestoranAt/
 
 ```
 
-## ER-diagramma (asosiy bog'lanishlar)
 
-```mermaid
-erDiagram
-    ApplicationUser ||--o{ Buyurtma : qiladi
-    ApplicationUser ||--o{ StolBron : bron_qiladi
-    ApplicationUser ||--o{ Sharh : yozadi
-    ApplicationUser ||--o{ Bildirishnoma : qabul_qiladi
-    ApplicationUser ||--o{ YetkazibBerish : kuzatadi
-
-    Taom ||--o{ BuyurtmaElementi : "joylashgan"
-    Taom ||--o{ Sharh : baholaydi
-    Taom }o--o{ Kategoriya : "TaomKategoriya"
-    Kategoriya ||--o{ Kategoriya : "ichki kategoriya"
-
-    Stol ||--o{ StolBron : "band_kilinadi"
-    Stol ||--o{ Buyurtma : "tegishli"
-
-    Buyurtma ||--o{ BuyurtmaElementi : o'z ichiga oladi
-    Buyurtma ||--o{ YetkazibBerish : talab_qiladi
-
-```
 
 ## Ishga tushirish
 
