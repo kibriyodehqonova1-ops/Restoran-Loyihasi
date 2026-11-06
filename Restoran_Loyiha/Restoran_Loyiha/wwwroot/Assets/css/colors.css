@@ -1,0 +1,15 @@
+﻿:root {
+    --primary: #d32f2f; /* qizil – restoran uslubi */
+    --secondary: #f57c00;
+    --dark: #222;
+    --light: #fff;
+}
+
+.btn-primary {
+    background: var(--primary);
+    border: none;
+}
+
+    .btn-primary:hover {
+        background: #b71c1c;
+    }

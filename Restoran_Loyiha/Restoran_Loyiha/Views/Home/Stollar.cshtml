@@ -1,0 +1,47 @@
+﻿@model List<Restoran_Loyiha.Models.Stol>
+@{
+    Layout = "_Layout";
+}
+
+<div class="container-fluid py-5 bg-dark hero-header mb-5">
+    <div class="container text-center my-5 pt-5 pb-4">
+        <h1 class="display-3 text-white mb-3 animated slideInDown">Mavjud Stollar</h1>
+        <p class="text-white">Restorandagi stollar va ularning holati</p>
+    </div>
+</div>
+
+<div class="container-fluid py-5">
+    <div class="container">
+        <div class="row g-4">
+            @if (Model != null && Model.Any())
+            {
+                foreach (var stol in Model)
+                {
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="card shadow-sm text-center p-3">
+                            <img src="@stol.RasmUrl" class="card-img-top mb-3" style="height:150px; object-fit:cover;" alt="Stol @stol.StolRaqami">
+                            <h5 class="card-title">Stol: @stol.StolRaqami</h5>
+                            <p>
+                                Sig'imi:
+                                @stol.Sigimi kishilik </p>
+                      @if (!stol.Band)
+                            {
+                                <form asp-action="JoyBron" method="post">
+                                    <input type="hidden" name="stolId" value="@stol.Id" />
+                                </form>
+                            }
+                            else
+                            {
+                                <span class="text-muted">Bron qilingan</span>
+                            }
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                <p class="text-center text-muted">Hozircha stollar mavjud emas.</p>
+            }
+        </div>
+    </div>
+</div>

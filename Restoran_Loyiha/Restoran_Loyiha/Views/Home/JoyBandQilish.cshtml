@@ -1,0 +1,76 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using Restoran_Loyiha.Models
+@model Bron
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Joy band qilish";
+}
+
+<!-- Hero Section -->
+<div class="container-fluid py-5 bg-dark hero-header mb-5">
+    <div class="container text-center my-5 pt-5 pb-4">
+        <h1 class="display-3 text-white mb-3 animated slideInDown">Stol band qilish</h1>
+    </div>
+</div>
+
+<div class="container-fluid py-5">
+    <div class="container">
+        <div class="row g-4">
+
+            <div class="col-md-4">
+                <h5 class="section-title ff-secondary fw-normal text-start text-primary">Biz bilan bog‘laning</h5>
+                <p><i class="fa fa-envelope-open text-primary me-2"></i>bron@example.com</p>
+                <p><i class="fa fa-phone-alt text-primary me-2"></i>+998 99 111 11 11</p>
+                <p><i class="fa fa-map-marker-alt text-primary me-2"></i>Toshkent, Uzbekistan</p>
+            </div>
+
+            <div class="col-md-8">
+                @if (TempData["Success"] != null)
+                {
+                    <div class="alert alert-success text-center">@TempData["Success"]</div>
+                }
+                @if (TempData["Error"] != null)
+                {
+                    <div class="alert alert-danger text-center">@TempData["Error"]</div>
+                }
+
+                <form asp-action="JoyBandQilish" method="post" class="p-4 border rounded shadow-sm bg-light">
+                   
+                    <div class="row g-3">
+                        <div class="col-md-6">
+                            <label class="form-label">Mijoz Ismi</label>
+                            <input asp-for="MijozIsm" class="form-control" required />
+                        </div>
+                        <div class="col-md-6">
+                            <label class="form-label">Email</label>
+                            <input asp-for="Email" type="email" class="form-control" required />
+                        </div>
+                        <div class="col-md-6">
+                            <label class="form-label">Sana</label>
+                            <input asp-for="Sana" type="date" class="form-control" required />
+                        </div>
+                        <div class="col-md-6">
+                            <label class="form-label">Vaqt</label>
+                            <input asp-for="Vaqt" type="time" class="form-control" required />
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Stolni tanlang</label>
+                            <select asp-for="StolId" class="form-select" required asp-items="@(new SelectList(ViewBag.Stollar, "Id", "StolRaqami"))">
+                                <option value="">-- Stol tanlang --</option>
+                            </select>
+                        </div>
+                        <div class="col-12">
+                            <button type="submit" class="btn btn-primary w-100 py-3 mt-2">Band qilish</button>
+                        </div>
+                    </div>
+                </form>
+
+
+
+            </div>
+
+        </div>
+
+        
+    </div>
+</div>

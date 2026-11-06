@@ -1,0 +1,91 @@
+﻿@model Restoran_Loyiha.Models.ViewModels.CreateBuyurtmaVM
+
+@{
+    Layout = "_Layout";
+}
+
+<main class="main">
+    <div class="topbar">
+        <div>
+            <h3 class="mb-0">Buyurtma qo‘shish</h3>
+            <small class="text-muted">Taom tanlang</small>
+        </div>
+    </div>
+
+    <div class="card-dash">
+        <form asp-action="AddBuyurtma" method="post">
+
+           
+            <div class="mb-3">
+                <label class="form-label">Stol</label>
+                <select asp-for="StolId" class="form-select">
+                    <option value="">Stol tanlang</option>
+                    @foreach (var stol in ViewBag.Stollar)
+                    {
+                        <option value="@stol.Id">@stol.StolRaqami</option>
+                    }
+
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Taom</label>
+                <select name="Elementlar[0].TaomId"
+                        class="form-select"
+                        onchange="showTaomRasm(this)">
+                    <option value="">Taom tanlang</option>
+                    @foreach (var taom in ViewBag.Taomlar)
+                    {
+                        <option value="@taom.Id"
+                                data-rasm="@taom.RasmUrl">
+                            @taom.Nomi (@taom.Narx so‘m)
+                        </option>
+                    }
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <img id="taomRasm"
+                     src=""
+                     style="display:none; max-width:150px; border-radius:10px;" />
+            </div>
+
+           
+            <div class="mb-3">
+                <label class="form-label">Miqdor</label>
+                <input type="number"
+                       name="Elementlar[0].Miqdor"
+                       class="form-control"
+                       value="1"
+                       min="1" />
+            </div>
+
+            <div class="form-group">
+                <label>Buyurtma holati</label>
+                <select asp-for="Holat" class="form-control">
+                    <option value="Ochiq">Ochiq</option>
+                    <option value="Tayyor">Tayyor</option>
+                    <option value="Yopilgan">To‘langan</option>
+                </select>
+            </div>
+           
+            <button class="btn btn-success">Saqlash</button>
+            <a asp-action="Buyurtma" class="btn btn-secondary ms-2">Orqaga</a>
+
+        </form>
+    </div>
+</main>
+
+   <script>
+    function showTaomRasm(select) {
+        const img = document.getElementById("taomRasm");
+        const rasm = select.options[select.selectedIndex].dataset.rasm;
+
+        if (rasm) {
+            img.src = rasm;
+            img.style.display = "block";
+        } else {
+            img.style.display = "none";
+        }
+    }
+</script>

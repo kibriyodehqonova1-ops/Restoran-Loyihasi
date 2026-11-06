@@ -1,0 +1,61 @@
+﻿@model Restoran_Loyiha.Models.Stol
+
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<main class="main">
+
+    <!-- TOPBAR -->
+    <div class="topbar mb-3">
+        <h3 class="mb-0">Yangi stol qo‘shish</h3>
+        <small class="text-muted">Restorandagi yangi stolni qo‘shish</small>
+    </div>
+
+    <!-- FORM CARD -->
+    <div class="card-dash" style="max-width: 500px;">
+        <form asp-area="Admin"
+              asp-controller="AdminHome"
+              asp-action="AddStol"
+              method="post"
+              enctype="multipart/form-data">
+
+            @Html.AntiForgeryToken()
+
+            <!-- STOL RAQAMI -->
+            <div class="mb-3">
+                <label class="form-label">Stol raqami</label>
+                <input asp-for="StolRaqami" class="form-control" required />
+                <span asp-validation-for="StolRaqami" class="text-danger"></span>
+            </div>
+
+            <!-- SIG‘IMI -->
+            <div class="mb-3">
+                <label class="form-label">Sig‘imi (kishi soni)</label>
+                <input asp-for="Sigimi" type="number" class="form-control" required />
+                <span asp-validation-for="Sigimi" class="text-danger"></span>
+            </div>
+
+            <!-- STOL RASMI -->
+            <div class="mb-3">
+                <label class="form-label">Stol rasmi</label>
+                <input type="file"
+                       name="RasmFile"
+                       class="form-control"
+                       accept="image/*"
+                       onchange="previewStolRasm(this)" />
+            </div>
+
+            <!-- RASM PREVIEW -->
+            <div class="mb-3">
+                <img id="stolRasmPreview"
+                     style="display:none; max-width:200px; border-radius:10px;" />
+            </div>
+
+            <!-- BUTTON -->
+            <button type="submit" class="btn btn-accent"><i class="fa fa-save me-1"></i> Saqlash</button>
+        </form>
+    </div>
+
+</main>
+

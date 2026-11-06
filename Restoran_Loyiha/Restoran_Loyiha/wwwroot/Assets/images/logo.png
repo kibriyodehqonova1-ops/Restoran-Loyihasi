@@ -1,0 +1,6 @@
+﻿namespace Restoran_Loyiha.wwwroot.Assets.images
+{
+    public class logo
+    {
+    }
+}

@@ -1,0 +1,51 @@
+﻿@model Restoran_Loyiha.Models.ViewModels.EditOshpazVM
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    Layout = "_Layout";
+}
+    <div class="container mt-4" style="max-width:600px;">
+        <h3>Oshpazni tahrirlash</h3>
+        <hr />
+
+        <form asp-action="EditOshpazlar" method="post" enctype="multipart/form-data">
+            @Html.AntiForgeryToken()
+
+            <input type="hidden" asp-for="Id" />
+            <input type="hidden" asp-for="EskiRasmUrl" />
+
+            <div class="mb-3">
+                <label>Ism</label>
+                <input asp-for="Ism" class="form-control" />
+            </div>
+
+            <div class="mb-3">
+                <label>Familiya</label>
+                <input asp-for="Familiya" class="form-control" />
+            </div>
+
+            <div class="mb-3">
+                <label>Lavozim</label>
+                <input asp-for="Lavozim" class="form-control" />
+            </div>
+
+            <div class="mb-3">
+                <label>Tajriba (yil)</label>
+                <input asp-for="TajribaYillari" type="number" class="form-control" />
+            </div>
+
+            <div class="mb-3">
+                <label>Hozirgi rasm</label><br />
+                <img src="@Model.EskiRasmUrl" width="120" class="rounded" />
+            </div>
+
+            <div class="mb-3">
+                <label>Yangi rasm</label>
+                <input asp-for="YangiRasm" type="file" class="form-control" />
+            </div>
+
+            <button type="submit" class="btn btn-success">Saqlash</button>
+            <a asp-action="Oshpazlar" class="btn btn-secondary">Orqaga</a>
+        </form>
+    </div>
+

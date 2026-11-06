@@ -1,0 +1,45 @@
+﻿@model Restoran_Loyiha.Models.Aloqa
+
+@{
+    ViewData["Title"] = "Xabarni o‘qish";
+    Layout = "_Layout";
+}
+
+<main class="main">
+
+    <div class="topbar d-flex justify-content-between align-items-center mb-3">
+        <div>
+            <h3 class="mb-0">Xabarni o‘qish</h3>
+            <small class="text-muted">Foydalanuvchi yuborgan xabar</small>
+        </div>
+        <a asp-action="Aloqa" class="btn btn-secondary">
+            <i class="fa fa-arrow-left"></i> Orqaga
+        </a>
+    </div>
+
+    <div class="card-dash p-4">
+
+        <div class="mb-2 text-muted">
+            <i class="fa fa-clock"></i>
+            @Model.Sana.ToString("dd.MM.yyyy HH:mm")
+        </div>
+
+        
+        @if (Model != null)
+        {
+            <h4>@Model.FIO</h4>
+            <p>@Model.Email</p>
+            <p>@Model.Xabar</p>
+
+            @if (Model.Buyurtma != null)
+            {
+                <p>Buyurtma: #@Model.Buyurtma.Id</p>
+            }
+        }
+        else
+        {
+            <p>Xabar topilmadi</p>
+        }
+    </div>
+
+</main>

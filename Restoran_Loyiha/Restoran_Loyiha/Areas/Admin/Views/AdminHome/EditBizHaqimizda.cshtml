@@ -1,0 +1,56 @@
+﻿@model Restoran_Loyiha.Models.BizHaqimizda
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    Layout = "_Layout";
+}
+
+    <div class="container mt-4" style="max-width:800px;">
+
+        <h3>
+            @(Model.Id == 0
+                        ? "Yangi Biz haqimizda qo‘shish"
+                        : "Biz haqimizda ma’lumotlarini tahrirlash")
+        </h3>
+
+        <hr />
+
+        <form asp-controller="AdminHome" asp-action="EditBizHaqimizda" method="post" class="mb-4">
+          
+
+            <input type="hidden" asp-for="Id" />
+
+            <div class="mb-3">
+                <label class="form-label">Sarlavha</label>
+                <input asp-for="Sarlavha" class="form-control" />
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Tavsif</label>
+                <textarea asp-for="Tavsif" class="form-control" rows="4"></textarea>
+            </div>
+
+            
+            <div class="mb-3">
+                <label class="form-label">Tajriba (yil)</label>
+                <input asp-for="TajribaYil" type="number" class="form-control" />
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Oshpazlar soni</label>
+                <input asp-for="OshpazlarSoni" type="number" class="form-control" />
+            </div>
+
+            <button type="submit"  class="btn btn-success">
+                Saqlash
+            </button>
+
+            <a asp-action="BizHaqimizda" class="btn btn-secondary">
+                Orqaga
+            </a>
+        </form>
+
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+

@@ -1,0 +1,33 @@
+﻿@model List<Restoran_Loyiha.Models.Oshpaz>
+
+@{
+    ViewData["Title"] = "Bizning jamoa";
+    Layout = "_Layout";
+}
+
+<div class="container py-5">
+    <div class="text-center mb-5">
+        <h2 class="fw-bold">Bizning Jamoa</h2>
+        <p class="text-muted">Professional oshpazlarimiz bilan tanishing</p>
+    </div>
+
+    <div class="row g-4">
+        @foreach (var o in Model)
+        {
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <div class="card shadow-sm h-100 text-center">
+                    <img src="@o.RasmUrl"
+                         class="card-img-top"
+                         style="height:250px; object-fit:cover"
+                         alt="@o.Ism @o.Familiya" />
+
+                    <div class="card-body">
+                        <h5 class="card-title mb-1">@o.Ism @o.Familiya</h5>
+                        <small class="text-muted">@o.Lavozim</small>
+                        <p class="mt-2 small">@o.TajribaYillari yil tajriba</p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

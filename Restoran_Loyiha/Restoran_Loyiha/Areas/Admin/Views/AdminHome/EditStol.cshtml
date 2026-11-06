@@ -1,0 +1,88 @@
+﻿@model Restoran_Loyiha.Models.Stol
+
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<main class="main">
+
+    <div class="topbar mb-3">
+        <h3 class="mb-0">Stolni tahrirlash</h3>
+        <small class="text-muted">Stol ma’lumotlarini o‘zgartirish</small>
+    </div>
+
+    <div class="card-dash" style="max-width: 500px;">
+        <form asp-area="Admin"
+              asp-controller="AdminHome"
+              asp-action="EditStol"
+              method="post"
+              enctype="multipart/form-data">
+
+            @Html.AntiForgeryToken()
+            <input type="hidden" asp-for="Id" />
+
+            <div class="mb-3">
+                <label class="form-label">Stol raqami</label>
+                <input asp-for="StolRaqami" class="form-control" required />
+                <span asp-validation-for="StolRaqami" class="text-danger"></span>
+            </div>
+
+            \
+            <div class="mb-3">
+                <label class="form-label">Sig‘imi (kishi soni)</label>
+                <input asp-for="Sigimi" type="number" class="form-control" required />
+                <span asp-validation-for="Sigimi" class="text-danger"></span>
+            </div>
+            <div class="mb-3 form-check">
+                <input asp-for="Band" class="form-check-input" type="checkbox" id="Band" />
+                <label class="form-check-label" for="Band">Stol band</label>
+            </div>
+
+            
+            @if (!string.IsNullOrEmpty(Model.RasmUrl))
+            {
+                <div class="mb-3">
+                    <label class="form-label">Joriy stol rasmi</label><br />
+                    <img id="currentRasm" src="@Model.RasmUrl" style="max-width:200px; border-radius:10px;" />
+                   
+                </div>
+            }
+
+            <div class="mb-3">
+                <label class="form-label">Stol rasmi (agar o'zgartirmoqchi bo'lsangiz)</label>
+                <input type="file" name="RasmFile" class="form-control" onchange="previewRasm(this)" />
+                <img id="previewRasm" style="display:none; max-width:200px; border-radius:10px; margin-top:10px;" />
+            </div>
+
+           
+            <div class="d-flex gap-2">
+                <button type="submit" class="btn btn-accent">
+                    <i class="fa fa-save me-1"></i> Saqlash
+                </button>
+
+                <a asp-action="Stollar" class="btn btn-secondary">
+                    <i class="fa fa-arrow-left me-1"></i> Orqaga
+                </a>
+            </div>
+
+        </form>
+    </div>
+
+</main>
+
+<script>
+    function previewRasm(input) {
+        const file = input.files[0];
+        const preview = document.getElementById("previewRasm");
+        if (file) {
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                preview.src = e.target.result;
+                preview.style.display = "block";
+            }
+            reader.readAsDataURL(file);
+        } else {
+            preview.style.display = "none";
+        }
+    }
+</script>

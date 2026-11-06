@@ -1,0 +1,58 @@
+﻿@model List<Restoran_Loyiha.Models.Taom>
+
+@{
+    Layout = "_Layout";
+}
+
+<div class="container-fluid py-5 bg-dark hero-header mb-5">
+    <div class="container text-center my-5 pt-5 pb-4">
+        <h1 class="display-3 text-white mb-3 animated slideInDown">MENU</h1>
+    </div>
+</div>
+
+<div class="container-fluid py-5">
+    <div class="container">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+            <h5 class="section-title ff-secondary text-center text-primary fw-normal">Taomlar</h5>
+            <h1 class="mb-5">Mavjud taomlar</h1>
+        </div>
+
+        <div class="tab-class text-center wow fadeInUp" data-wow-delay="0.1s">
+            <div class="tab-content">
+                <div id="tab-1" class="tab-pane fade show p-0 active">
+                    <div class="row g-4">
+                        @if (Model != null && Model.Any())
+                        {
+                            foreach (var taom in Model)
+                            {
+                                <div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="@taom.RasmUrl" alt="@taom.Nomi" style="width: 80px; height:80px; object-fit:cover;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>@taom.Nomi</span>
+                                                <span class="text-primary">@taom.Narx</span>
+                                            </h5>
+                                            <small class="fst-italic">@taom.Tavsif</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                        }
+                        else
+                        {
+                            <p class="text-center text-muted">Hozircha menyu mavjud emas.</p>
+                        }
+                    </div>
+                </div>
+
+                <div id="tab-2" class="tab-pane fade show p-0">
+                    <div class="row g-4">
+                        <p class="text-center text-muted">Maxsus taomlar hali qo‘shilmagan.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Menu End -->

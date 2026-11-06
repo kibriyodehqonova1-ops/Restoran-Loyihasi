@@ -1,0 +1,57 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model List<Restoran_Loyiha.Models.Aloqa>
+
+@{
+    Layout = "_Layout";
+}
+
+<main class="main">
+
+    <!-- Topbar -->
+    <div class="topbar d-flex justify-content-between align-items-center mb-3">
+        <div>
+            <h3 class="mb-0">Aloqa xabarlari</h3>
+            <small class="text-muted">Foydalanuvchilardan kelgan xabarlar ro‘yxati</small>
+        </div>
+    </div>
+
+    <!-- Card -->
+    <div class="card-dash p-3">
+        <div class="table-responsive">
+            <table class="table table-striped table-bordered align-middle">
+                <thead class="table-dark">
+                    <tr>
+                        <th>#</th>
+                        <th>FIO</th>
+                        <th>Email</th>
+                        <th>Xabar</th>
+                        <th>Sana</th>
+                        <th>Batafsil</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Id</td>
+                            <td>@item.FIO</td>
+                            <td>@item.Email</td>
+                            <td style="max-width: 300px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+                                @item.Xabar
+                            </td>
+                           
+                            <td>@item.Sana.ToString("dd.MM.yyyy HH:mm")</td>
+                            <td>
+                                <a asp-controller="AdminHome" asp-action="ReadAloqa" asp-route-id="@item.Id">
+                                    <i class="fa fa-eye"></i>
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+
+            </table>
+        </div>
+    </div>
+
+</main>

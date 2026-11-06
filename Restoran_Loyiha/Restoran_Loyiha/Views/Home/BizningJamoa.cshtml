@@ -1,0 +1,39 @@
+﻿@model List<Restoran_Loyiha.Models.Oshpaz>
+
+@{
+    Layout = "_Layout";
+}
+
+<div class="container-fluid py-5 bg-dark hero-header mb-5">
+    <div class="container text-center my-5 pt-5 pb-4">
+        <h1 class="display-3 text-white mb-3 animated slideInDown">Bizning Jamoa</h1>
+        <p class="text-white-50">Restorandagi oshpazlar bilan tanishing</p>
+    </div>
+</div>
+
+<div class="container py-5">
+    <div class="row g-4">
+        @if (Model != null && Model.Any())
+        {
+            foreach (var oshpaz in Model)
+            {
+                <div class="col-lg-4 col-md-6">
+                    <div class="team-item bg-light rounded overflow-hidden">
+                        <div class="team-img position-relative overflow-hidden">
+                            <img class="img-fluid" src="@oshpaz.RasmUrl" alt="@oshpaz.Ism @oshpaz.Familiya">
+                        </div>
+                        <div class="text-center p-4">
+                            <h5 class="mb-0">@oshpaz.Ism @oshpaz.Familiya</h5>
+                            <small class="text-primary">@oshpaz.Lavozim</small>
+                            <p class="mt-2 mb-0">Tajriba: @oshpaz.TajribaYillari yil</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+        else
+        {
+            <p class="text-center text-muted">Hozircha oshpazlar ro‘yxati mavjud emas.</p>
+        }
+    </div>
+</div>

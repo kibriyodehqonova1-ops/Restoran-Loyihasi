@@ -1,0 +1,78 @@
+﻿@model IEnumerable<Restoran_Loyiha.Models.Stol>
+
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<main class="main">
+
+    <div class="topbar mb-3">
+        <h3 class="mb-0">Stollar ro'yxati</h3>
+        <small class="text-muted">Admin paneldan stollarni boshqarish</small>
+    </div>
+
+    <div class="card-dash p-3">
+
+        <a asp-action="AddStol" class="btn btn-success mb-3">
+            <i class="fa fa-plus me-1"></i> Stol qo'shish
+        </a>
+
+        <div class="table-responsive">
+            <table class="table table-striped table-bordered align-middle">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Stol raqami</th>
+                        <th>Sig‘imi</th>
+                        <th>Bandligi</th>
+                        <th>Rasm</th>
+                        <th>Amallar</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var stol in Model)
+                    {
+                        <tr>
+                            <td>@stol.StolRaqami</td>
+                            <td>@stol.Sigimi</td>
+                            <td>
+                                @if (stol.Band)
+                                {
+                                    <span class="badge bg-danger">Band</span>
+                                }
+                                else
+                                {
+                                    <span class="badge bg-success">Bo'sh</span>
+                                }
+                            </td>
+                            <td>
+                                @if (!string.IsNullOrEmpty(stol.RasmUrl))
+                                {
+                                    <img src="@stol.RasmUrl" style="width:100px; border-radius:5px;" />
+                                }
+                                else
+                                {
+                                    <span class="text-muted">Rasm yo‘q</span>
+                                }
+                            </td>
+                            <td>
+                                <div class="d-flex gap-2">
+                                    <a asp-action="EditStol" asp-route-id="@stol.Id" class="btn btn-sm btn-primary">
+                                        <i class="fa fa-edit me-1"></i> Tahrirlash
+                                    </a>
+                                    <form asp-action="DeleteStol" method="post" onsubmit="return confirm('Stolni o‘chirishni xohlaysizmi?');">
+                                        <input type="hidden" name="id" value="@stol.Id" />
+                                        <button type="submit" class="btn btn-sm btn-danger">
+                                            <i class="fa fa-trash me-1"></i> O'chirish
+                                        </button>
+                                    </form>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+
+</main>

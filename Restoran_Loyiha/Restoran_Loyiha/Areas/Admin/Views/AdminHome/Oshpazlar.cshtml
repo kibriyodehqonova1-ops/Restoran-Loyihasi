@@ -1,0 +1,71 @@
+﻿@model List<Restoran_Loyiha.Models.Oshpaz>
+
+@{
+    Layout = "_Layout";
+}
+
+<main class="main">
+
+    <div class="topbar d-flex justify-content-between align-items-center mb-3">
+        <div>
+            <h3 class="mb-0">Oshpazlar</h3>
+            <small class="text-muted">Restorandagi oshpazlar ro‘yxati</small>
+        </div>
+        <a asp-area="Admin" asp-controller="AdminHome" asp-action="AddOshpazlar" class="btn btn-accent">
+            <i class="fa fa-plus me-1"></i> Yangi oshpaz
+        </a>
+    </div>
+
+    <div class="card-dash p-3">
+        <div class="table-responsive">
+            <table class="table table-striped table-bordered align-middle">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Rasm</th>
+                        <th>Ism</th>
+                        <th>Familiya</th>
+                        <th>Lavozim</th>
+                        <th>Tajriba (yil)</th>
+                        <th>O'zgartirish</th>
+                        <th>O'chirish</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var oshpaz in Model)
+                    {
+                        <tr>
+                            <td>
+                                <img src="@(string.IsNullOrEmpty(oshpaz.RasmUrl) ? "/images/no-image.png" : oshpaz.RasmUrl)"
+                                     class="rounded" width="60"
+                                     onerror="this.src='/images/no-image.png'" />
+                            </td>
+                            <td><strong>@oshpaz.Ism</strong></td>
+                            <td><strong>@oshpaz.Familiya</strong></td>
+                            <td>@oshpaz.Lavozim</td>
+                            <td>@oshpaz.TajribaYillari</td>
+                            <td>
+                                <a class="btn btn-sm btn-warning d-flex align-items-center gap-1"
+                                   asp-controller="AdminHome"
+                                   asp-action="EditOshpazlar"
+                                   asp-route-id="@oshpaz.Id">
+                                    <i class="fa fa-edit"></i> O'zgartirish
+                                </a>
+                            </td>
+                            <td>
+                                <form asp-area="Admin" asp-controller="AdminHome" asp-action="DeleteOshpazlar" method="post" style="display:inline;">
+                                    @Html.AntiForgeryToken()
+                                    <input type="hidden" name="id" value="@oshpaz.Id" />
+                                    <button type="button" class="btn btn-sm btn-danger"
+                                            onclick="if(confirm('Rostdan ham o‘chirmoqchimisiz?')) { this.closest('form').submit(); }">
+                                        <i class="fa fa-trash"></i> O'chirish
+                                    </button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+</main>

@@ -1,0 +1,81 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model Restoran_Loyiha.Models.Aloqa
+@{
+    Layout = "_Layout";
+}
+
+<div class="container-fluid py-5 bg-dark hero-header mb-5">
+    <div class="container text-center my-5 pt-5 pb-4">
+        <h1 class="display-3 text-white mb-3 animated slideInDown">Biz bilan aloqa</h1>
+    </div>
+</div>
+<div class="container-fluid py-5">
+    <div class="container">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+            <h5 class="section-title ff-secondary text-center text-primary fw-normal">Biz bilan aloqa</h5>
+            <h1 class="mb-5">Har qanday so‘rov uchun bog‘laning</h1>
+        </div>
+        <div class="row g-4">
+            <div class="col-12">
+                <div class="row gy-4">
+                    <div class="col-md-4">
+                        <h5 class="section-title ff-secondary fw-normal text-start text-primary">Joy band qilish uchun</h5>
+                        <p><i class="fa fa-envelope-open text-primary me-2"></i>bron@example.com</p>
+                    </div>
+                    <div class="col-md-4">
+                        <h5 class="section-title ff-secondary fw-normal text-start text-primary">Umumiy</h5>
+                        <p><i class="fa fa-envelope-open text-primary me-2"></i>umumiy@example.com</p>
+                    </div>
+                    <div class="col-md-4">
+                        <h5 class="section-title ff-secondary fw-normal text-start text-primary">Texnik</h5>
+                        <p><i class="fa fa-envelope-open text-primary me-2"></i>texnik@example.com</p>
+                    </div>
+                </div>
+            </div>
+          
+            <div class="col-md-6 mx-auto">
+                @if (TempData["Success"] != null)
+                {
+                    <div class="alert alert-success text-center">
+                        @TempData["Success"]
+                    </div>
+                }
+
+                <form asp-controller="Home" asp-action="SendAloqa" method="post">
+                    @Html.AntiForgeryToken()
+
+                    <div class="row g-3">
+                        <div class="col-md-12">
+                            <div class="form-floating">
+                                <input asp-for="FIO" class="form-control" id="FIO" placeholder="FIO kiriting" required />
+                                <label for="FIO">FIO kiriting</label>
+                                <span asp-validation-for="FIO" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="col-md-12">
+                            <div class="form-floating">
+                                <input asp-for="Email" type="email" class="form-control" id="Email" placeholder="Emailingizni kiriting" required />
+                                <label for="Email">Emailingizni kiriting</label>
+                                <span asp-validation-for="Email" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="col-md-12">
+                            <div class="form-floating">
+                                <textarea asp-for="Xabar" class="form-control" id="Xabar" placeholder="Xabaringizni kiriting" style="height: 150px" required></textarea>
+                                <label for="Xabar">Xabaringizni kiriting</label>
+                                <span asp-validation-for="Xabar" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="col-12">
+                            <button type="submit" class="btn btn-primary w-100 py-3">Xabar yuboring</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+       </div>
+</div>
+

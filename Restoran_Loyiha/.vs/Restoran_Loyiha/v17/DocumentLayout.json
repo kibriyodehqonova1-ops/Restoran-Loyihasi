@@ -1,0 +1,1672 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\views\\home\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\views\\home\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\views\\home\\stollar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\views\\home\\stollar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\models\\stol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\models\\stol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\models\\oshpaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\models\\oshpaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\models\\buyurtmaelementlari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\models\\buyurtmaelementlari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\models\\buyurtma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\models\\buyurtma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\models\\bron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\models\\bron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\models\\bizhaqimizda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\models\\bizhaqimizda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\models\\asosiysahifa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\models\\asosiysahifa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\models\\aloqa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\models\\aloqa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Restoran_Loyiha/True/SqlTable/dbo.Oshpazlar.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\views\\home\\bizningjamoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\views\\home\\bizningjamoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\areas\\admin\\controllers\\adminhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\areas\\admin\\controllers\\adminhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\views\\home\\joybandqilish.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\views\\home\\joybandqilish.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\views\\home\\jamoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\views\\home\\jamoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\views\\home\\bizhaqimizda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\views\\home\\bizhaqimizda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\views\\home\\aloqa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\views\\home\\aloqa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\models\\viemodels\\editoshpazvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\models\\viemodels\\editoshpazvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\models\\viemodels\\deleteoshpazvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\models\\viemodels\\deleteoshpazvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\models\\viemodels\\createmenyuvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\models\\viemodels\\createmenyuvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\models\\viemodels\\createbuyurtmavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\models\\viemodels\\createbuyurtmavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\models\\viemodels\\createoshpazvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\models\\viemodels\\createoshpazvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\models\\viemodels\\createbuyurtmaitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\models\\viemodels\\createbuyurtmaitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\models\\viemodels\\createbronvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\models\\viemodels\\createbronvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\models\\viemodels\\buyurtmalistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\models\\viemodels\\buyurtmalistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\models\\taom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\models\\taom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\models\\viemodels\\editmenyuvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\models\\viemodels\\editmenyuvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\areas\\admin\\views\\adminhome\\stollar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\areas\\admin\\views\\adminhome\\stollar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\areas\\admin\\views\\adminhome\\readaloqa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\areas\\admin\\views\\adminhome\\readaloqa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\areas\\admin\\views\\adminhome\\oshpazlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\areas\\admin\\views\\adminhome\\oshpazlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\areas\\admin\\views\\adminhome\\menyu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\areas\\admin\\views\\adminhome\\menyu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\areas\\admin\\views\\adminhome\\editstol.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\areas\\admin\\views\\adminhome\\editstol.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\areas\\admin\\views\\adminhome\\editoshpazlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\areas\\admin\\views\\adminhome\\editoshpazlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\areas\\admin\\views\\adminhome\\editmenyu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\areas\\admin\\views\\adminhome\\editmenyu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\areas\\admin\\views\\adminhome\\editbuyurtma.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\areas\\admin\\views\\adminhome\\editbuyurtma.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\areas\\admin\\views\\adminhome\\addbuyurtma.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\areas\\admin\\views\\adminhome\\addbuyurtma.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\areas\\admin\\views\\adminhome\\addbron.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\areas\\admin\\views\\adminhome\\addbron.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\areas\\admin\\views\\adminhome\\buyurtma.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\areas\\admin\\views\\adminhome\\buyurtma.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\areas\\admin\\views\\adminhome\\editasosiysahifa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\areas\\admin\\views\\adminhome\\editasosiysahifa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\areas\\admin\\views\\adminhome\\editbizhaqimizda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\areas\\admin\\views\\adminhome\\editbizhaqimizda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\areas\\admin\\views\\adminhome\\bizhaqimizda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\areas\\admin\\views\\adminhome\\bizhaqimizda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\areas\\admin\\views\\adminhome\\bronlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\areas\\admin\\views\\adminhome\\bronlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\areas\\admin\\views\\adminhome\\asosiysahifa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\areas\\admin\\views\\adminhome\\asosiysahifa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\areas\\admin\\views\\adminhome\\aloqa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\areas\\admin\\views\\adminhome\\aloqa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\areas\\admin\\views\\adminhome\\addstol.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\areas\\admin\\views\\adminhome\\addstol.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\areas\\admin\\views\\adminhome\\addoshpazlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\areas\\admin\\views\\adminhome\\addoshpazlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\areas\\admin\\views\\adminhome\\addmenyu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\areas\\admin\\views\\adminhome\\addmenyu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Restoran_Loyiha/True/SqlTable/dbo.Bron.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Restoran_Loyiha/True/SqlTable/dbo.BizHaqimizda.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\migrations\\20251218113610_yana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\migrations\\20251218113610_yana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\migrations\\20251218113801_bizhaqimizda2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\migrations\\20251218113801_bizhaqimizda2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Restoran_Loyiha/True/SqlTable/dbo.AsosiySahifalar.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Restoran_Loyiha/True/SqlTable/dbo.Stol.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\pj0la3z1..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Restoran_Loyiha/True/SqlTable/dbo.Buyurtmalar.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Restoran_Loyiha/True/SqlTable/dbo.Aloqalar.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251217172046_aloqasana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Restoran_Loyiha\\Migrations\\20251217172046_aloqasana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251216185049_AddSummaToBuyurtma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Restoran_Loyiha\\Migrations\\20251216185049_AddSummaToBuyurtma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251212055943_Birinchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Restoran_Loyiha\\Migrations\\20251212055943_Birinchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\wwwroot\\assets\\images\\sidebar.jpg||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\wwwroot\\assets\\images\\sidebar.jpg||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\wwwroot\\assets\\js\\charts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\wwwroot\\assets\\js\\charts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\wwwroot\\assets\\images\\header.jpg||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\wwwroot\\assets\\images\\header.jpg||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\wwwroot\\assets\\images\\food3.jpg||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\wwwroot\\assets\\images\\food3.jpg||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\wwwroot\\assets\\images\\user.png||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\wwwroot\\assets\\images\\user.png||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\wwwroot\\assets\\images\\logo.png||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\wwwroot\\assets\\images\\logo.png||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\wwwroot\\assets\\js\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\wwwroot\\assets\\js\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\wwwroot\\assets\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\wwwroot\\assets\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\wwwroot\\assets\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\wwwroot\\assets\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\wwwroot\\assets\\css\\colors.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\wwwroot\\assets\\css\\colors.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\wwwroot\\assets\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\wwwroot\\assets\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\migrations\\20251212055419_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\migrations\\20251212055419_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\migrations\\20251213190805_changetaomnarxtodouble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\migrations\\20251213190805_changetaomnarxtodouble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\migrations\\20251213190856_mignarx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\migrations\\20251213190856_mignarx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\migrations\\20251215204829_stol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\migrations\\20251215204829_stol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\migrations\\20251215191817_addbrontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\migrations\\20251215191817_addbrontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\migrations\\20251216205400_aloqa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\migrations\\20251216205400_aloqa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\migrations\\20251216192237_tayyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\migrations\\20251216192237_tayyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\migrations\\20251216185352_summa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\migrations\\20251216185352_summa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\migrations\\20251216184933_sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\migrations\\20251216184933_sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\migrations\\20251217144209_addstolrasmurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\migrations\\20251217144209_addstolrasmurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\migrations\\20251217183706_yangistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\migrations\\20251217183706_yangistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\migrations\\20251217182912_stolsigim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\migrations\\20251217182912_stolsigim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\migrations\\20251217181051_joybron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\migrations\\20251217181051_joybron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\migrations\\20251217172225_aloqasana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\migrations\\20251217172225_aloqasana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\migrations\\20251218061339_aloqafullfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\migrations\\20251218061339_aloqafullfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\migrations\\20251218063417_aloqamix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\migrations\\20251218063417_aloqamix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\migrations\\20251218112331_biz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\migrations\\20251218112331_biz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\migrations\\20251218110837_bizhaqimizda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\migrations\\20251218110837_bizhaqimizda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\migrations\\20251218093431_asosiysahifa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\migrations\\20251218093431_asosiysahifa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Views\\Home\\JoyBron.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Restoran_Loyiha\\Views\\Home\\JoyBron.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\migrations\\20251218211228_end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\migrations\\20251218211228_end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\migrations\\20251218210329_nima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\migrations\\20251218210329_nima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|c:\\users\\user\\source\\repos\\restoran_loyiha\\restoran_loyiha\\migrations\\20251218203842_addmijoztobuyurtma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAFE7B-F509-4B36-8B08-C97B5017FB1D}|Restoran_Loyiha\\Restoran_Loyiha.csproj|solutionrelative:restoran_loyiha\\migrations\\20251218203842_addmijoztobuyurtma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuyurtmaElementlari.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\BuyurtmaElementlari.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Models\\BuyurtmaElementlari.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\BuyurtmaElementlari.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Models\\BuyurtmaElementlari.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T09:27:25.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Oshpaz.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\Oshpaz.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Models\\Oshpaz.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\Oshpaz.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Models\\Oshpaz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T09:20:28.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stol.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\Stol.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Models\\Stol.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\Stol.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Models\\Stol.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T09:25:44.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stollar.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Views\\Home\\Stollar.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Views\\Home\\Stollar.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Views\\Home\\Stollar.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Views\\Home\\Stollar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-17T19:50:21.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Views\\Home\\Menu.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Views\\Home\\Menu.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Views\\Home\\Menu.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Views\\Home\\Menu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T08:56:24.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\appsettings.json",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\appsettings.json",
+              "RelativeToolTip": "Restoran_Loyiha\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-06T15:24:31.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Buyurtma.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\Buyurtma.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Models\\Buyurtma.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\Buyurtma.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Models\\Buyurtma.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T09:26:27.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bron.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\Bron.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Models\\Bron.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\Bron.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Models\\Bron.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T14:02:31.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BizHaqimizda.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\BizHaqimizda.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Models\\BizHaqimizda.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\BizHaqimizda.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Models\\BizHaqimizda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T11:01:21.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AsosiySahifa.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\AsosiySahifa.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Models\\AsosiySahifa.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\AsosiySahifa.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Models\\AsosiySahifa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:23:17.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T10:16:06.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Aloqa.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\Aloqa.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Models\\Aloqa.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\Aloqa.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Models\\Aloqa.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:39:26.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.Oshpazlar.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Restoran_Loyiha/True/SqlTable/dbo.Oshpazlar.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Restoran_Loyiha/True/SqlTable/dbo.Oshpazlar.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-19T08:14:37.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BizningJamoa.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Views\\Home\\BizningJamoa.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Views\\Home\\BizningJamoa.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Views\\Home\\BizningJamoa.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Views\\Home\\BizningJamoa.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T08:58:34.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wEgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T15:33:12.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Controllers\\AdminHomeController.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Areas\\Admin\\Controllers\\AdminHomeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Controllers\\AdminHomeController.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Areas\\Admin\\Controllers\\AdminHomeController.cs",
+              "ViewState": "AgIAAMwBAAAAAAAAAAAAAMcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:07:02.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Program.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Program.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T15:18:45.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Views\\Shared\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Views\\Shared\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Views\\Shared\\_ViewStart.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Views\\Shared\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T11:05:09.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Views\\Shared\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Views\\Shared\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Views\\Shared\\_ViewImports.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Views\\Shared\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T11:05:07.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-07T12:35:27.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JoyBandQilish.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Views\\Home\\JoyBandQilish.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Views\\Home\\JoyBandQilish.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Views\\Home\\JoyBandQilish.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Views\\Home\\JoyBandQilish.cshtml",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T08:56:41.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Jamoa.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Views\\Home\\Jamoa.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Views\\Home\\Jamoa.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Views\\Home\\Jamoa.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Views\\Home\\Jamoa.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-17T19:11:37.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T15:51:05.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BizHaqimizda.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Views\\Home\\BizHaqimizda.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Views\\Home\\BizHaqimizda.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Views\\Home\\BizHaqimizda.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Views\\Home\\BizHaqimizda.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T16:43:37.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Aloqa.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Views\\Home\\Aloqa.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Views\\Home\\Aloqa.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Views\\Home\\Aloqa.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Views\\Home\\Aloqa.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-17T18:15:00.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EditOshpazVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\VieModels\\EditOshpazVM.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Models\\VieModels\\EditOshpazVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\VieModels\\EditOshpazVM.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Models\\VieModels\\EditOshpazVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T11:50:19.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DeleteOshpazVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\VieModels\\DeleteOshpazVM.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Models\\VieModels\\DeleteOshpazVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\VieModels\\DeleteOshpazVM.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Models\\VieModels\\DeleteOshpazVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T11:55:24.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateMenyuVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\VieModels\\CreateMenyuVM.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Models\\VieModels\\CreateMenyuVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\VieModels\\CreateMenyuVM.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Models\\VieModels\\CreateMenyuVM.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T12:04:16.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateBuyurtmaVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\VieModels\\CreateBuyurtmaVM.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Models\\VieModels\\CreateBuyurtmaVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\VieModels\\CreateBuyurtmaVM.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Models\\VieModels\\CreateBuyurtmaVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:00:55.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateOshpazVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\VieModels\\CreateOshpazVM.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Models\\VieModels\\CreateOshpazVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\VieModels\\CreateOshpazVM.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Models\\VieModels\\CreateOshpazVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T11:43:59.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateBuyurtmaItemVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\VieModels\\CreateBuyurtmaItemVM.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Models\\VieModels\\CreateBuyurtmaItemVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\VieModels\\CreateBuyurtmaItemVM.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Models\\VieModels\\CreateBuyurtmaItemVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:09:08.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateBronVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\VieModels\\CreateBronVM.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Models\\VieModels\\CreateBronVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\VieModels\\CreateBronVM.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Models\\VieModels\\CreateBronVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T21:24:11.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BuyurtmaListVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\VieModels\\BuyurtmaListVM.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Models\\VieModels\\BuyurtmaListVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\VieModels\\BuyurtmaListVM.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Models\\VieModels\\BuyurtmaListVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T17:31:59.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T18:59:06.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T10:29:20.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T19:07:17.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Taom.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\Taom.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Models\\Taom.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\Taom.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Models\\Taom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T09:22:08.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EditMenyuVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\VieModels\\EditMenyuVM.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Models\\VieModels\\EditMenyuVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Models\\VieModels\\EditMenyuVM.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Models\\VieModels\\EditMenyuVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T12:10:26.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Stollar.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\Stollar.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\Stollar.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\Stollar.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\Stollar.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T19:50:25.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ReadAloqa.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\ReadAloqa.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\ReadAloqa.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\ReadAloqa.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\ReadAloqa.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T06:53:24.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Oshpazlar.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\Oshpazlar.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\Oshpazlar.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\Oshpazlar.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\Oshpazlar.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T11:13:11.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Menyu.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\Menyu.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\Menyu.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\Menyu.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\Menyu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T19:23:45.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EditStol.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\EditStol.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\EditStol.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\EditStol.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\EditStol.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T20:29:14.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EditOshpazlar.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\EditOshpazlar.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\EditOshpazlar.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\EditOshpazlar.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\EditOshpazlar.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T06:53:10.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EditMenyu.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\EditMenyu.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\EditMenyu.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\EditMenyu.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\EditMenyu.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T12:13:08.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EditBuyurtma.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\EditBuyurtma.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\EditBuyurtma.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\EditBuyurtma.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\EditBuyurtma.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T18:43:11.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AddBuyurtma.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\AddBuyurtma.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\AddBuyurtma.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\AddBuyurtma.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\AddBuyurtma.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T17:33:54.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AddBron.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\AddBron.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\AddBron.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\AddBron.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\AddBron.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T14:04:32.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Buyurtma.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\Buyurtma.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\Buyurtma.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\Buyurtma.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\Buyurtma.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T11:00:44.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "20251218211228_end.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251218211228_end.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251218211228_end.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251218211228_end.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251218211228_end.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:12:28.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "20251218210329_nima.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251218210329_nima.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251218210329_nima.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251218210329_nima.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251218210329_nima.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:03:29.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "20251218203842_AddMijozToBuyurtma.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251218203842_AddMijozToBuyurtma.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251218203842_AddMijozToBuyurtma.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251218203842_AddMijozToBuyurtma.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251218203842_AddMijozToBuyurtma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T20:38:42.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "EditAsosiySahifa.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\EditAsosiySahifa.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\EditAsosiySahifa.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\EditAsosiySahifa.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\EditAsosiySahifa.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T10:16:35.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EditBizHaqimizda.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\EditBizHaqimizda.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\EditBizHaqimizda.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\EditBizHaqimizda.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\EditBizHaqimizda.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T11:04:27.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Bronlar.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\Bronlar.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\Bronlar.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\Bronlar.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\Bronlar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T11:10:20.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "BizHaqimizda.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\BizHaqimizda.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\BizHaqimizda.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\BizHaqimizda.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\BizHaqimizda.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T11:03:59.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AsosiySahifa.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\AsosiySahifa.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\AsosiySahifa.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\AsosiySahifa.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\AsosiySahifa.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T09:27:18.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Aloqa.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\Aloqa.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\Aloqa.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\Aloqa.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\Aloqa.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T06:35:08.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AddStol.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\AddStol.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\AddStol.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\AddStol.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\AddStol.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T19:52:17.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AddOshpazlar.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\AddOshpazlar.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\AddOshpazlar.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\AddOshpazlar.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\AddOshpazlar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T06:27:21.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AddMenyu.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\AddMenyu.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\AddMenyu.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\AddMenyu.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Areas\\Admin\\Views\\AdminHome\\AddMenyu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T19:01:36.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "dbo.Bron.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Restoran_Loyiha/True/SqlTable/dbo.Bron.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Restoran_Loyiha/True/SqlTable/dbo.Bron.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-18T18:42:44.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "dbo.BizHaqimizda.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Restoran_Loyiha/True/SqlTable/dbo.BizHaqimizda.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Restoran_Loyiha/True/SqlTable/dbo.BizHaqimizda.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-18T16:03:10.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20251218113610_yana.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251218113610_yana.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251218113610_yana.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251218113610_yana.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251218113610_yana.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T11:36:10.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20251218113801_bizhaqimizda2.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251218113801_bizhaqimizda2.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251218113801_bizhaqimizda2.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251218113801_bizhaqimizda2.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251218113801_bizhaqimizda2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T11:38:01.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "20251218112331_biz.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251218112331_biz.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251218112331_biz.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251218112331_biz.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251218112331_biz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T11:23:31.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "20251218110837_bizhaqimizda.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251218110837_bizhaqimizda.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251218110837_bizhaqimizda.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251218110837_bizhaqimizda.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251218110837_bizhaqimizda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T11:08:37.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "dbo.AsosiySahifalar.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Restoran_Loyiha/True/SqlTable/dbo.AsosiySahifalar.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Restoran_Loyiha/True/SqlTable/dbo.AsosiySahifalar.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-18T09:42:49.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "20251218093431_asosiySahifa.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251218093431_asosiySahifa.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251218093431_asosiySahifa.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251218093431_asosiySahifa.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251218093431_asosiySahifa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:34:32.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "JoyBron.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Views\\Home\\JoyBron.cshtml",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Views\\Home\\JoyBron.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Views\\Home\\JoyBron.cshtml",
+              "RelativeToolTip": "Restoran_Loyiha\\Views\\Home\\JoyBron.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-17T18:15:57.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "20251218063417_Aloqamix.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251218063417_Aloqamix.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251218063417_Aloqamix.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251218063417_Aloqamix.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251218063417_Aloqamix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T06:34:17.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "20251218061339_AloqaFullFix.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251218061339_AloqaFullFix.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251218061339_AloqaFullFix.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251218061339_AloqaFullFix.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251218061339_AloqaFullFix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T06:13:39.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "dbo.Stol.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Restoran_Loyiha/True/SqlTable/dbo.Stol.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Restoran_Loyiha/True/SqlTable/dbo.Stol.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-17T18:38:19.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "pj0la3z1..sql",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\pj0la3z1..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\pj0la3z1..sql",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\pj0la3z1..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\pj0la3z1..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-17T18:52:13.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "20251217183706_yangistol.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251217183706_yangistol.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251217183706_yangistol.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251217183706_yangistol.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251217183706_yangistol.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T18:37:06.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "20251217182912_StolSigim.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251217182912_StolSigim.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251217182912_StolSigim.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251217182912_StolSigim.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251217182912_StolSigim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T18:29:13.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "20251217181051_joyBron.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251217181051_joyBron.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251217181051_joyBron.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251217181051_joyBron.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251217181051_joyBron.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T18:10:51.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "dbo.Aloqalar.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Restoran_Loyiha/True/SqlTable/dbo.Aloqalar.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Restoran_Loyiha/True/SqlTable/dbo.Aloqalar.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-17T17:38:07.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "dbo.Buyurtmalar.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Restoran_Loyiha/True/SqlTable/dbo.Buyurtmalar.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Restoran_Loyiha/True/SqlTable/dbo.Buyurtmalar.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-17T17:38:55.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "20251217172225_aloqasana.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251217172225_aloqasana.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251217172225_aloqasana.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251217172225_aloqasana.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251217172225_aloqasana.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:22:25.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20251217172046_aloqasana.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251217172046_aloqasana.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251217172046_aloqasana.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251217172046_aloqasana.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251217172046_aloqasana.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:20:46.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "20251217144209_AddStolRasmUrl.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251217144209_AddStolRasmUrl.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251217144209_AddStolRasmUrl.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251217144209_AddStolRasmUrl.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251217144209_AddStolRasmUrl.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T14:42:09.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "20251216205400_aloqa.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251216205400_aloqa.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251216205400_aloqa.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251216205400_aloqa.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251216205400_aloqa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:54:00.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "20251216192237_Tayyor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251216192237_Tayyor.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251216192237_Tayyor.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251216192237_Tayyor.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251216192237_Tayyor.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T19:22:37.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "20251216185352_Summa.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251216185352_Summa.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251216185352_Summa.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251216185352_Summa.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251216185352_Summa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:53:53.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20251216185049_AddSummaToBuyurtma.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251216185049_AddSummaToBuyurtma.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251216185049_AddSummaToBuyurtma.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251216185049_AddSummaToBuyurtma.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251216185049_AddSummaToBuyurtma.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:50:49.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "20251216184933_sum.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251216184933_sum.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251216184933_sum.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251216184933_sum.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251216184933_sum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:49:33.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "20251215204829_stol.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251215204829_stol.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251215204829_stol.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251215204829_stol.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251215204829_stol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T20:48:29.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "20251215191817_AddBronTable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251215191817_AddBronTable.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251215191817_AddBronTable.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251215191817_AddBronTable.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251215191817_AddBronTable.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T19:18:17.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "20251213190805_ChangeTaomNarxToDouble.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251213190805_ChangeTaomNarxToDouble.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251213190805_ChangeTaomNarxToDouble.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251213190805_ChangeTaomNarxToDouble.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251213190805_ChangeTaomNarxToDouble.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T19:08:05.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "20251213190856_MigNarx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251213190856_MigNarx.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251213190856_MigNarx.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251213190856_MigNarx.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251213190856_MigNarx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T19:08:56.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20251212055419_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251212055419_Initial.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251212055419_Initial.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251212055419_Initial.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251212055419_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:54:19.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20251212055943_Birinchi.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251212055943_Birinchi.cs",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\Migrations\\20251212055943_Birinchi.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\Migrations\\20251212055943_Birinchi.cs",
+              "RelativeToolTip": "Restoran_Loyiha\\Migrations\\20251212055943_Birinchi.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:59:43.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "charts.js",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\wwwroot\\Assets\\js\\charts.js",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\wwwroot\\Assets\\js\\charts.js",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\wwwroot\\Assets\\js\\charts.js",
+              "RelativeToolTip": "Restoran_Loyiha\\wwwroot\\Assets\\js\\charts.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-09T18:06:55.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "logo.png",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\wwwroot\\Assets\\images\\logo.png",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\wwwroot\\Assets\\images\\logo.png",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\wwwroot\\Assets\\images\\logo.png",
+              "RelativeToolTip": "Restoran_Loyiha\\wwwroot\\Assets\\images\\logo.png",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-09T18:07:33.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "user.png",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\wwwroot\\Assets\\images\\user.png",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\wwwroot\\Assets\\images\\user.png",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\wwwroot\\Assets\\images\\user.png",
+              "RelativeToolTip": "Restoran_Loyiha\\wwwroot\\Assets\\images\\user.png",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-09T18:08:44.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "food3.jpg",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\wwwroot\\Assets\\images\\food3.jpg",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\wwwroot\\Assets\\images\\food3.jpg",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\wwwroot\\Assets\\images\\food3.jpg",
+              "RelativeToolTip": "Restoran_Loyiha\\wwwroot\\Assets\\images\\food3.jpg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-09T18:10:40.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "header.jpg",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\wwwroot\\Assets\\images\\header.jpg",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\wwwroot\\Assets\\images\\header.jpg",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\wwwroot\\Assets\\images\\header.jpg",
+              "RelativeToolTip": "Restoran_Loyiha\\wwwroot\\Assets\\images\\header.jpg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-09T18:11:17.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "sidebar.jpg",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\wwwroot\\Assets\\images\\sidebar.jpg",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\wwwroot\\Assets\\images\\sidebar.jpg",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\wwwroot\\Assets\\images\\sidebar.jpg",
+              "RelativeToolTip": "Restoran_Loyiha\\wwwroot\\Assets\\images\\sidebar.jpg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-09T18:14:42.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "bootstrap.bundle.min.js",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\wwwroot\\Assets\\js\\bootstrap.bundle.min.js",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\wwwroot\\Assets\\js\\bootstrap.bundle.min.js",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\wwwroot\\Assets\\js\\bootstrap.bundle.min.js",
+              "RelativeToolTip": "Restoran_Loyiha\\wwwroot\\Assets\\js\\bootstrap.bundle.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-09T18:07:10.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\wwwroot\\Assets\\js\\main.js",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\wwwroot\\Assets\\js\\main.js",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\wwwroot\\Assets\\js\\main.js",
+              "RelativeToolTip": "Restoran_Loyiha\\wwwroot\\Assets\\js\\main.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-09T18:06:31.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\wwwroot\\Assets\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\wwwroot\\Assets\\css\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\wwwroot\\Assets\\css\\bootstrap.min.css",
+              "RelativeToolTip": "Restoran_Loyiha\\wwwroot\\Assets\\css\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-09T18:05:00.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "colors.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\wwwroot\\Assets\\css\\colors.css",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\wwwroot\\Assets\\css\\colors.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\wwwroot\\Assets\\css\\colors.css",
+              "RelativeToolTip": "Restoran_Loyiha\\wwwroot\\Assets\\css\\colors.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-09T18:04:40.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "admin.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\wwwroot\\Assets\\css\\admin.css",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\wwwroot\\Assets\\css\\admin.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\wwwroot\\Assets\\css\\admin.css",
+              "RelativeToolTip": "Restoran_Loyiha\\wwwroot\\Assets\\css\\admin.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-09T18:04:19.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "Restoran_Loyiha\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restoran_Loyiha\\Restoran_Loyiha\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "Restoran_Loyiha\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAALABAAAAAAAAAAAAALUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-09T09:25:06.486Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

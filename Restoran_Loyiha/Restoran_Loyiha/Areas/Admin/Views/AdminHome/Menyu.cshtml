@@ -1,0 +1,73 @@
+﻿@model List<Restoran_Loyiha.Models.Taom>
+
+@{
+    Layout = "_Layout";
+}
+
+<main class="main">
+
+    <div class="topbar d-flex justify-content-between align-items-center mb-3">
+        <div>
+            <h3 class="mb-0">Menyular</h3>
+            <small class="text-muted">Restorandagi menyular ro‘yxati</small>
+        </div>
+        <a asp-area="Admin" asp-controller="AdminHome" asp-action="AddMenyu" class="btn btn-accent">
+            <i class="fa fa-plus me-1"></i> Yangi taom
+        </a>
+    </div>
+
+    <div class="card-dash p-3">
+        <div class="table-responsive">
+            <table class="table table-striped table-bordered align-middle">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Rasm</th>
+                        <th>Nomi</th>
+                        <th>Tavsif</th>
+                        <th>Narx</th>
+                        <th>Oshpaz</th>
+                        <th>O'zgartirish</th>
+                        <th>O'chirish</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var taom in Model)
+                    {
+                        <tr>
+                            <td>
+                                <img src="@(string.IsNullOrEmpty(taom.RasmUrl) ? "/images/no-image.png" : taom.RasmUrl)"
+                                     width="60"
+                                     class="rounded"
+                                     onerror="this.src='/images/no-image.png'" />
+                            </td>
+                            <td>@taom.Nomi</td>
+                            <td>@taom.Tavsif</td>
+                            <td>@taom.Narx.ToString("0.00") so‘m</td>
+                            <td>@taom.Oshpaz?.Ism </td>
+                            <td>
+                                <a class="btn btn-sm btn-warning d-flex align-items-center gap-1"
+                                   asp-area="Admin"
+                                   asp-controller="AdminHome"
+                                   asp-action="EditMenyu"
+                                   asp-route-id="@taom.Id">
+                                    <i class="fa fa-edit"></i> O'zgartirish
+                                </a>
+                            </td>
+                            <td>
+                                <form asp-area="Admin" asp-controller="AdminHome" asp-action="DeleteMenyu" method="post" style="display:inline;">
+                                    @Html.AntiForgeryToken()
+                                    <input type="hidden" name="id" value="@taom.Id" />
+                                    <button type="button" class="btn btn-sm btn-danger"
+                                            onclick="if(confirm('Rostdan ham o‘chirmoqchimisiz?')) { this.closest('form').submit(); }">
+                                        <i class="fa fa-trash"></i> O'chirish
+                                    </button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+</main>

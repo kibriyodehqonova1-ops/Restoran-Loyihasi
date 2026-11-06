@@ -1,0 +1,41 @@
+﻿@model Restoran_Loyiha.Models.AsosiySahifa
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    Layout = "_Layout";
+}
+    <div class="container mt-4" style="max-width:800px;">
+
+        <h3>@(Model.Id == 0 ? "Yangi Asosiy Sahifa qo'shish" : "Asosiy Sahifani o'zgartirish")</h3>
+        <hr />
+
+        <!-- Form -->
+        <form asp-action="EditAsosiySahifa" method="post" class="mb-4">
+            @Html.AntiForgeryToken()
+            <input type="hidden" asp-for="Id" />
+
+            <div class="mb-3">
+                <label class="form-label">Sarlavha</label>
+                <input asp-for="Sarlavha" class="form-control" />
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Tavsif</label>
+                <textarea asp-for="Tavsif" class="form-control"></textarea>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Rasm URL</label>
+                <input asp-for="RasmUrl" class="form-control" />
+            </div>
+
+            <button type="submit" class="btn btn-success">Saqlash</button>
+            <a asp-action="AsosiySahifa" class="btn btn-secondary">Orqaga</a>
+        </form>
+
+       
+
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+

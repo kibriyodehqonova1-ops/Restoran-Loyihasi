@@ -1,0 +1,62 @@
+﻿@model Restoran_Loyiha.Models.BizHaqimizda
+@{
+    Layout = "_Layout";
+}
+
+<div class="container-fluid py-5 bg-dark hero-header mb-5">
+    <div class="container text-center my-5 pt-5 pb-4">
+        <h1 class="display-3 text-white mb-3 animated slideInDown">
+            @(Model?.Sarlavha ?? "Biz haqimizda")
+        </h1>
+    </div>
+</div>
+
+<div class="container-fluid py-5">
+    <div class="container">
+      
+        <div class="row justify-content-center">
+            <div class="col-lg-8 text-center">
+
+                <h5 class="section-title ff-secondary text-primary fw-normal mb-3">
+                    Biz haqimizda
+                </h5>
+
+                <h1 class="mb-4">
+                    @(Model?.Sarlavha ?? "Oilaviy restoran")
+                </h1>
+
+                <p class="mb-4">
+                    @(Model?.Tavsif ?? "Ma'lumot hali kiritilmagan")
+                </p>
+
+                <!-- Statistikalar -->
+                <div class="row g-4 justify-content-center mb-4">
+                    <div class="col-sm-5">
+                        <div class="d-flex justify-content-center align-items-center border-start border-5 border-primary px-3">
+                            <h1 class="display-5 text-primary mb-0">
+                                @(Model?.TajribaYil ?? 12)
+                            </h1>
+                            <div class="ps-4 text-start">
+                                <p class="mb-0">Yillik</p>
+                                <h6 class="text-uppercase mb-0">Tajriba</h6>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-5">
+                        <div class="d-flex justify-content-center align-items-center border-start border-5 border-primary px-3">
+                            <h1 class="display-5 text-primary mb-0">
+                                @(Model?.OshpazlarSoni ?? 4)
+                            </h1>
+                            <div class="ps-4 text-start">
+                                <p class="mb-0">Professional</p>
+                                <h6 class="text-uppercase mb-0">Oshpazlar</h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>

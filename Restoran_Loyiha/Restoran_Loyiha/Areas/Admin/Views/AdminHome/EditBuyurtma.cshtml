@@ -1,0 +1,51 @@
+﻿@using Restoran_Loyiha.Models
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model Restoran_Loyiha.Models.ViewModels.CreateBuyurtmaVM
+@{
+    Layout = "_Layout";
+}
+
+<h3>Buyurtmani tahrirlash</h3>
+
+<form asp-action="EditBuyurtma" method="post">
+ 
+    <div class="mb-3">
+        <label>Stol</label>
+        <select asp-for="StolId" class="form-control"
+                asp-items="@(new SelectList(ViewBag.Stollar ?? new List<object>(), "Id", "Nomi"))">
+            <option value="">-- Stolni tanlang --</option>
+        </select>
+    </div>
+
+    <h5>Taomlar</h5>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Taom</th>
+                <th>Miqdor</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Elementlar.Count; i++)
+            {
+                <tr>
+                    <td>
+                        <select asp-for="Elementlar[@i].TaomId" class="form-control"
+                                asp-items="@(new SelectList(ViewBag.Taomlar ?? new List<Taom>(), "Id", "Nomi"))">
+                            <option value="">-- Taomni tanlang --</option>
+                        </select>
+                    </td>
+                    <td>
+                        <input asp-for="Elementlar[@i].Miqdor" class="form-control" type="number" min="1" />
+                    </td>
+                    <td>
+                        <input asp-for="Elementlar[@i].UmumiyNarx" class="form-control" type="number" step="0.01" />
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+
+    <button type="submit" class="btn btn-success">Saqlash</button>
+</form>

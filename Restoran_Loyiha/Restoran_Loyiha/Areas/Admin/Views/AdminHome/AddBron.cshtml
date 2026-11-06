@@ -1,0 +1,81 @@
+﻿@model Restoran_Loyiha.Models.Bron
+
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<main class="main">
+
+    <div class="topbar d-flex justify-content-between align-items-center mb-3">
+        <div>
+            <h3 class="mb-0">Yangi Bron qo‘shish</h3>
+            <small class="text-muted">Restoranga yangi bron qo‘shish</small>
+        </div>
+        <a asp-area="Admin"
+           asp-controller="AdminHome"
+           asp-action="Bronlar"
+           class="btn btn-secondary">
+            <i class="fa fa-arrow-left me-1"></i> Orqaga
+        </a>
+    </div>
+
+    <div class="card-dash" style="max-width: 550px;">
+        <form asp-area="Admin"
+              asp-controller="AdminHome"
+              asp-action="AddBron"
+              method="post">
+
+            <div class="mb-3">
+                <label class="form-label">Mijoz ismi</label>
+                <input asp-for="MijozIsm" class="form-control" required />
+                <span asp-validation-for="MijozIsm" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Email</label>
+                <input asp-for="Email" type="email" class="form-control" required />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Stol raqami</label>
+                <select asp-for="StolId" class="form-select">
+                    <option value="">Stol tanlang</option>
+                    @foreach (var stol in ViewBag.Stollar)
+                    {
+                        <option value="@stol.Id">
+                            Stol №@stol.StolRaqami (@stol.Sigimi kishilik)
+                        </option>
+                    }
+                </select>
+                <span asp-validation-for="StolId" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Sana</label>
+                <input asp-for="Sana" type="date" class="form-control" required />
+                <span asp-validation-for="Sana" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Vaqt</label>
+                <input asp-for="Vaqt" type="time" class="form-control" required />
+                <span asp-validation-for="Vaqt" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Holat</label>
+                <select asp-for="Holat" class="form-select">
+                    <option value="Kutilmoqda">Kutilmoqda</option>
+                    <option value="Tasdiqlandi">Tasdiqlandi</option>
+                    <option value="Bekor qilindi">Bekor qilindi</option>
+                </select>
+            </div>
+
+            <button type="submit" class="btn btn-success">
+                <i class="fa fa-save me-1"></i> Saqlash
+            </button>
+        </form>
+    </div>
+
+</main>
