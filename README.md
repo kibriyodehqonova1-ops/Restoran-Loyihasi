@@ -113,13 +113,4 @@ Demo hisoblar faqat namunaviy ma'lumotlar (`SeedDemoData`) yoqilganda yaratiladi
 * POST amallarida `[ValidateAntiForgeryToken]`, rollarga asoslangan `[Authorize]`
 * Parolni tiklash tokeni faqat Development muhitida to'g'ridan-to'g'ri ko'rsatiladi; productionda email xizmati ulanishi kerak (hozircha ulanmagan)
 
-## Rivojlantirish rejasi
 
-* [ ] Holatlarni (`"Tayyorlanmoqda"`, `"Yetkazilmoqda"` ...) `enum` ga o'tkazish
-* [ ] Buyurtma mantiqini controllerlardan `OrderService` ga ko'chirish
-* [ ] Stol bron qilishda bir vaqtda band qilishdan himoya (`RowVersion`)
-* [ ] `DateTime.Now` → `DateTime.UtcNow`
-* [ ] xUnit testlar (buyurtma va hisob-kitob qoidalari)
-* [ ] Email yoki Telegram bot orqali bildirishnoma yuborish
-* [ ] REST API qatlami (JWT + Swagger)
-* [ ] GitHub Actions (build + test)
